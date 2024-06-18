@@ -1,6 +1,6 @@
 {
-	"author": "Lucas Freitas Cordeiro",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Lucas Freitas Cordeiro",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
